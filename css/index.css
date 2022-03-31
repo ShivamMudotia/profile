@@ -155,3 +155,15 @@ hr.black {
 	color: #E61231 !important;
 	font-weight: bold;
 }
+
+/* Rl Black Color */
+.RlBlack {
+	color: #130c0d !important;
+	font-weight: bold;
+}
+
+/* Rl Loght Red Color */
+.RlLRed {
+	color: #f06c00 !important;
+	font-weight: bold;
+}
