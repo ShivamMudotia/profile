@@ -6078,6 +6078,19 @@ a.close.disabled {
   border-color: #f87e5d;
 }
 
+.bg-custom-primary-shivam {
+  color: #fff;
+  background-color: #c6b297!important;
+  border-color: #f87e5d;
+}
+
+.bg-custom-secondary-shivam {
+  color: #fff;
+  background-color: #f0b9aa !important;
+  border-color: #f87e5d;
+}
+
+
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
