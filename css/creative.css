@@ -6072,13 +6072,13 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
-.bg-primary {
+.bg-primary2 {
   color: #fff;
   background-color: #ff8566!important;
   border-color: #f87e5d;
 }
 
-.bg-primary2 {
+.bg-primary {
   color: #fff;
   background-color: #c6b297!important;
   border-color: #f87e5d;
